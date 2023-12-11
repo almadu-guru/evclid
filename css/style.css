@@ -91,7 +91,7 @@ h1, h2, h3, p, ul {
   padding-left: 75px;
   margin: 0 auto;
   max-width: 1770px;
-  border: 1px solid pink;
+/*   border: 1px solid pink; */
 }
 .header {
   margin-bottom: 50px;
